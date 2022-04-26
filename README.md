@@ -11,6 +11,16 @@
 ## Documentation
 
 You can read it from [GitHub Wiki](https://github.com/EBLISYALME/DDOS-PANEL/wiki)
+# Manual installation 
+```shell script
+python3 pip install sockets
+python3 pip install PySocks
+python3 pip install threaded
+python3 pip install regex
+python3 pip install urllib3
+python3 pip install os-sys
+```
+
 
 ## Video Tutorial
 * [youtube](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g)
