@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/783376775517700096/966376388825342032/token_graber.png" width="400px" alt="pytools"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/783376775517700096/968586623715528704/Untitled-1.png" width="400px" alt="pytools"></p>
 
 <h1 align="center">DDOS PANEL - The Best DDOS PANEL</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
