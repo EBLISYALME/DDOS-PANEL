@@ -10,7 +10,7 @@
 
 ## Documentation
 
-You can read it from [GitHub Wiki](#)
+You can read it from [GitHub Wiki](https://github.com/EBLISYALME/DDOS-PANEL/wiki)
 
 ## Video Tutorial
 * [youtube](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g)
