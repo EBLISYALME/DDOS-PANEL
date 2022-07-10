@@ -1,5 +1,4 @@
 import socket
-import socks
 import time
 import threading
 import random
@@ -7,10 +6,20 @@ import re
 import urllib.request
 import os
 import sys
+import socks
 while True:
-		print('''\x1b[38;5;87m
+
+
+		print('''\x1b[38;5;87m          
 	
-       《E B L I S YALME#8242》  ''') 
+       /******** ******   **       **  ******** **    **     **     **       ****     **** ********
+       /**///// /*////** /**      /** **////// //**  **     ****   /**      /**/**   **/**/**///// 
+       /**      /*   /** /**      /**/**        //****     **//**  /**      /**//** ** /**/**      
+       /******* /******  /**      /**/*********  //**     **  //** /**      /** //***  /**/******* 
+       /**////  /*//// **/**      /**////////**   /**    **********/**      /**  //*   /**/**////  
+       /**      /*    /**/**      /**       /**   /**   /**//////**/**      /**   /    /**/**      
+       /********/******* /********/** ********    /**   /**     /**/********/**        /**/********
+       //////// ///////  //////// // ////////     //    //      // //////// //         // ////////     ''') 
 
 		print('''\x1b[38;5;83m''')
 
@@ -754,4 +763,4 @@ while True:
 
 
 		if __name__ == '__main__':
-			starturl() # questo fa startare la prima funzione del programma, che a sua volta ne starta un altra, poi un altra, fino ad arrivare all'attacco.
+			starturl() # questo fa startare la prima funzione del programma, che a sua volta ne starta un altra, poi un altra, fino ad arrivare all'attacco
